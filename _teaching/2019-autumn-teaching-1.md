@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "New Technologies and Trends in Computer Science"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Graduate course"
+permalink: /teaching/2019-autumn-teaching-1
 venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+date: 2019-09-01
+location: "Beijing, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
