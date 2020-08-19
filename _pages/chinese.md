@@ -52,3 +52,5 @@ author_profile: true
 
 **通信地址：**北京理工大学中心教学楼1206
 
+**电子邮件：**Liuhui08@bit.edu.cn
+

@@ -4,10 +4,7 @@ main:
     url: /publications/
 
   - title: "Research Group"
-    url: /group/    
-
-  - title: "中文版"
-    url: /chinese/    
+    url: /group/      
     
   - title: "Teaching"
     url: /teaching/
@@ -15,3 +12,5 @@ main:
   - title: "Services"
     url: /services/
 
+  - title: "中文版"
+    url: /chinese/  

@@ -3,7 +3,6 @@ layout: single
 title: "Research Group"
 permalink: /group/
 author_profile: true
-
 ---
 
 ## Faculty
@@ -16,7 +15,7 @@ author_profile: true
 
 ## Ph.D. Students
 
-* [Lei Qiao](#)
+* [Lei Qiao(2016-)](#)
 
 ## Master Students
 
