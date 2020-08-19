@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 * 中国计算机学会软件工程专委会 副秘书长
-
 * 中国计算机学会软件工程专委会 常务委员
+
 * IET Software 副主编 (CCF B类期刊)
 * IEEE ACCESS 副主编 （SCI 二区）
 * Empirical Software Engineering 客座编辑（CCF B类期刊）

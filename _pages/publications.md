@@ -13,11 +13,13 @@ author_profile: true
 
 <h2>Journal</h2>
 
-
+{% for post in site.publications.journal reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <h2>Conference</h2>
 
-{% for post in site.publications reversed %}
+{% for post in site.publications.conference reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
