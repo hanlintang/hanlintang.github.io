@@ -3,20 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research Group"
+    url: /group/    
 
+  - title: "中文版"
+    url: /chinese/    
+    
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /teaching/
         
-  - title: "Blog Posts"
+  - title: "Services"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
