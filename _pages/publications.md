@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Journal</h2>
+
+
+
+<h2>Conference</h2>
+
+
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
