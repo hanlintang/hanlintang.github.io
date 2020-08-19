@@ -24,3 +24,20 @@ News
 ======
 1. 课题组论文被[the 38th International Conference on Software Engineering](http://2016.icse.cs.txstate.edu/) (ICSE)录用。ICSE是中国计算机学会推荐的国际顶级A类会议（2015/12/18）。
 
+{% capture written_year %}'None'{% endcapture %}
+
+{% for post in site.posts %}
+
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+  {% if year != written_year %}
+
+​    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+
+​    {% capture written_year %}{{ year }}{% endcapture %}
+
+  {% endif %}
+
+  {% include archive-single.html %}
+
+{% endfor %}
