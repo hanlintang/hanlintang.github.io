@@ -15,7 +15,7 @@ author_profile: true
 
 ## Ph.D. Students
 
-* [Lei Qiao(2016-)](#)
+* [Lei Qiao(2016)](#)
 
 ## Master Students
 
