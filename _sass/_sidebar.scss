@@ -83,13 +83,13 @@
   }
 
   img {
-    max-width: 180px;
-    border-radius: 0%;
-    margin: auto;
-    // @include breakpoint($large) {
-    //   padding: 5px;
-    //   border: 1px solid $border-color;
-    // }
+    max-width: 175px;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
   }
 }
 
@@ -112,7 +112,7 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 10px;
   }
 }
@@ -123,8 +123,6 @@
 
 .author__bio {
   margin: 0;
-  font-size: 0.9em;
-  font-style: italic;
 
   @include breakpoint($large) {
     margin-top: 10px;
