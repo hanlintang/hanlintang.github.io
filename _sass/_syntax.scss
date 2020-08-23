@@ -28,7 +28,11 @@ div.highlighter-rouge, figure.highlight {
   .highlight {
     margin: 0;
     font-family: $monospace;
+<<<<<<< HEAD
     font-size: 14pt;
+=======
+    font-size: $type-size-7;
+>>>>>>> 931afb19e9d3daaad3da65bb4c81b1aacb2c5246
     line-height: 1.8;
   }
 }
