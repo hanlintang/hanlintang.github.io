@@ -39,6 +39,7 @@
   }
 }
 
+// set
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
@@ -46,6 +47,7 @@
   a + a {
     opacity: 0.5;
   }
+
 }
 
 /* remove border*/
@@ -81,7 +83,13 @@
 
   .archive__item-title {
     text-decoration: underline;
+    font-size: 21px;
   }
+
+  .archive_item-content{
+    font-size:15px ;
+  }
+  
 }
 
 
