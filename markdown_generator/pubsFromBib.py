@@ -102,7 +102,7 @@ for pubsource in publist:
             for author in bibdata.entries[bib_id].persons["author"]:
                 citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
 
-            #citation title
+            '''#citation title
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
 
             #add venue logic depending on citation type
@@ -110,7 +110,7 @@ for pubsource in publist:
 
             citation = citation + " " + html_escape(venue)
             citation = citation + ", " + pub_year + "."
-
+'''
             
             ## YAML variables
             md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
@@ -127,7 +127,7 @@ for pubsource in publist:
 
             md += "\ndate: " + str(pub_date) 
 
-            md += "\nvenue: '" + html_escape(venue) + "'"
+            # md += "\nvenue: '" + html_escape(venue) + "'"
             
             url = False
             if "url" in b.keys():
