@@ -5,6 +5,5 @@ permalink: /publication/2019-01-01-Machine-Learning-Based-Recommendation-of-Meth
 date: 2019-01-01
 venue: 'In the proceedings of 34th IEEE/ACM International Conference on Automated Software Engineering, ASE 2019, San Diego, CA, USA, November 11-15, 2019'
 paperurl: 'https://doi.org/10.1109/ASE.2019.00062'
-citation: ' Lin Jiang,  Hui Liu,  He Jiang, '
+citation: ' Lin Jiang,  Hui Liu,  He Jiang'
 ---
-[Access paper here](https://doi.org/10.1109/ASE.2019.00062){:target="_blank"}

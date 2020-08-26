@@ -5,6 +5,5 @@ permalink: /publication/2016-01-01-Major-motivations-for-extract-method-refactor
 date: 2016-01-01
 venue: 'Frontiers Comput. Sci.'
 paperurl: 'https://doi.org/10.1007/s11704-016-5131-4'
-citation: ' Wenmei Liu,  Hui Liu, '
+citation: ' Wenmei Liu,  Hui Liu'
 ---
-[Access paper here](https://doi.org/10.1007/s11704-016-5131-4){:target="_blank"}

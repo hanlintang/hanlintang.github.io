@@ -5,6 +5,5 @@ permalink: /publication/2012-01-01-Schedule-of-Bad-Smell-Detection-and-Resolutio
 date: 2012-01-01
 venue: 'IEEE Trans. Software Eng.'
 paperurl: 'https://doi.org/10.1109/TSE.2011.9'
-citation: ' Hui Liu,  Zhiyi Ma,  Weizhong Shao,  Zhendong Niu, '
+citation: ' Hui Liu,  Zhiyi Ma,  Weizhong Shao,  Zhendong Niu'
 ---
-[Access paper here](https://doi.org/10.1109/TSE.2011.9){:target="_blank"}
