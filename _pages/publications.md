@@ -14,7 +14,6 @@ author_profile: true
 {% assign num = 1%}
 {% for post in site.publications reversed %}
 
-{% capture foo %}{{ num }}{% endcapture %}
   {% include archive-single.html num=num %}
   {%num= num+1%}
 {% endfor %}
