@@ -5,5 +5,5 @@ permalink: /publication/2018-01-01-Automatic-approval-prediction-for-software-en
 date: 2018-01-01
 venue: 'Autom. Softw. Eng.'
 paperurl: 'https://doi.org/10.1007/s10515-017-0229-y'
-citation: ' Zeeshan Nizamani,  Hui Liu,  David Chen,  Zhendong Niu'
+citation: ' Zeeshan Nizamani,  Hui Liu,  David Chen,  Zhendong Niu&quot;Automatic approval prediction for software enhancement requests.&quot; Autom. Softw. Eng., 2018.'
 ---

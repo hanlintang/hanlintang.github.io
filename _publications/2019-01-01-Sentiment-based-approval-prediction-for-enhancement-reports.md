@@ -5,5 +5,5 @@ permalink: /publication/2019-01-01-Sentiment-based-approval-prediction-for-enhan
 date: 2019-01-01
 venue: 'J. Syst. Softw.'
 paperurl: 'https://doi.org/10.1016/j.jss.2019.05.026'
-citation: ' Qasim Umer,  Hui Liu,  Yasir Sultan'
+citation: ' Qasim Umer,  Hui Liu,  Yasir Sultan&quot;Sentiment based approval prediction for enhancement reports.&quot; J. Syst. Softw., 2019.'
 ---
