@@ -11,9 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign num = 10%}
+{% assign num = 1%}
 {% for post in site.publications reversed %}
 
   {% include archive-single.html content=num %}
-  
+    {% assign num = num|plus:1%}
 {% endfor %}
