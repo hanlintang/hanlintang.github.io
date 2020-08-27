@@ -15,5 +15,5 @@ author_profile: true
 {% for post in site.publications reversed %}
 
   {% include archive-single.html num=num %}
-  {%num= num+1%}
+  {%num= num|plus: 1%}
 {% endfor %}
