@@ -17,4 +17,5 @@ author_profile: true
 
 {% capture foo %}{{ num }}{% endcapture %}
   {% include archive-single.html %}
+  {%num= num+1%}
 {% endfor %}
