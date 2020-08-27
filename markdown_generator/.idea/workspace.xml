@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee4619a7-57b4-4655-b2d2-ad95d3fa971e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pubsFromBib.py" beforeDir="false" afterPath="$PROJECT_DIR$/pubsFromBib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_includes/archive-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/../_includes/archive-single.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,12 +116,12 @@
       <option name="presentableId" value="Default" />
       <updated>1597829701490</updated>
       <workItem from="1597829707605" duration="868000" />
-      <workItem from="1597833180491" duration="4693000" />
+      <workItem from="1597833180491" duration="4887000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5561000" />
+    <option name="totallyTimeSpent" value="5755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
