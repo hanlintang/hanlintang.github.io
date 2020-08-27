@@ -12,8 +12,9 @@ author_profile: true
 {% include base_path %}
 
 
-
-{% for post in site.publications reversed %}
 {% assign num = 1%}
+{% for post in site.publications reversed %}
+
+{% capture foo %}{{ num }}{% endcapture %}
   {% include archive-single.html %}
 {% endfor %}
